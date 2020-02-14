@@ -1,0 +1,15 @@
+{
+  "orgName": "dfleminks company",
+  "edition": "Developer",
+  "release": "Preview",
+  "features": ["Communities"],
+  "language": "en_US",
+  "settings": {
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    }
+  }
+}
